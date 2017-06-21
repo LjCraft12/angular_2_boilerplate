@@ -1,0 +1,30 @@
+{
+  "name": "angular_2_boilerplate_with_user_registration",
+  "version": "1.0.0",
+  "description": "Angular 2 boiler plate app with user registration",
+  "main": "server.js",
+  "scripts": {
+    "test": "",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LjCraft12/angular_2_boilerplate.git"
+  },
+  "author": "Perry Craft",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LjCraft12/angular_2_boilerplate/issues"
+  },
+  "homepage": "https://github.com/LjCraft12/angular_2_boilerplate#readme"
+}
